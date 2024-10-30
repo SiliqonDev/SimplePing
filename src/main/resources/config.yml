@@ -1,0 +1,8 @@
+plugin-enabled: true
+
+ping-cooldown: true # have a cooldown for player pings? (works per-message, not per-ping)
+ping-cooldown-time: 5 # in seconds
+
+allow-ping-everyone: true # allow players to use @everyone to ping everyone on the server?
+
+allow-disable: true # allow players to disable ping alert sounds?

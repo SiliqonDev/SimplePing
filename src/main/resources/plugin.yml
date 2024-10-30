@@ -1,0 +1,8 @@
+name: SimplePing
+version: '${project.version}'
+main: com.siliqon.simpleping.SimplePing
+api-version: '1.13'
+prefix: SimplePing
+load: STARTUP
+authors: [Siliqon]
+description: A plugin that allows players to ping others in chat
